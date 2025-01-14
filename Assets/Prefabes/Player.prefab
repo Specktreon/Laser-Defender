@@ -256,3 +256,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7de82bd16ad70f04ba508d902df86c7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  projectilePrefab: {fileID: 2559270539937777047, guid: fa0f1a558b4fd584aa624862fbcf1f22, type: 3}
+  projectileSpeed: 10
+  projectileLifetime: 5
+  firingRate: 0.2
+  isFiring: 0
