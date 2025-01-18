@@ -125,6 +125,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   health: 50
+  hitEffect: {fileID: 870208807636926984, guid: 4ff816e1f9e4830499eb58a47026507e, type: 3}
 --- !u!114 &2037086148282795807
 MonoBehaviour:
   m_ObjectHideFlags: 0
